@@ -1,0 +1,16 @@
+$Nodes
+3
+$Elements
+2
+1 1 2
+2 2 3
+$Forces
+1
+3 500 
+$Displacements
+1
+1 0
+$Stiffness
+$Same
+500
+$end

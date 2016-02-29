@@ -1,0 +1,21 @@
+$Nodes
+4
+$Elements
+3
+1 1 2
+2 2 3
+3 3 4
+$Forces
+1 
+2 450
+$Displacements
+2
+1 0
+4 0
+$Stiffness
+$Diff
+3
+1 10000
+2 20000
+3 10000
+$end
